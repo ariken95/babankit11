@@ -1,7 +1,7 @@
 {
   "Ads":[
     {
-      "interval_inters": "1",
+      "interval_inters": "10",
 	"interval_native":"2",
       "openads_admob":"ca-app-pub-3940256099942544/3419835294x",
       "admob_inter": "ca-app-pub-3940256099942544/1033173712x",
