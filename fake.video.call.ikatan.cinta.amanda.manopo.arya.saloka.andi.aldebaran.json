@@ -1,8 +1,8 @@
 {
   "Ads":[
     {
-      "interval_inters": "",
-	"interval_native":"",
+      "interval_inters": "5",
+	"interval_native":"2",
       "openads_admob":"ca-app-pub-9676953921795368/3963134111",
       "admob_inter": "ca-app-pub-9676953921795368/3963134111",
       "admob_nativ": "ca-app-pub-9676953921795368/2552367649",
